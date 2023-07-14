@@ -10,7 +10,7 @@ The pitch axis will be belt or rack and pinion driven from a 57BLF04 VPForce mot
 
 The above box will bolt to an aluminum gantry plate and ride along a section of 8020x400mm rail. Here is a link to the rail but these are universal and any vendor of the 4x wide 20 series aluminum vslot extrusion should work the same. https://a.co/d/cz4xqeC
 
-The gantry plate came from Amazon but you can cut one out along with the other parts. https://a.co/d/fDJAr2g . The important part is that the holes have provisions for 7mm essentric nuts that allow fine tuning of the alignment of the wheels to the rail.
+The gantry plate came from Amazon but you can cut one out along with the other parts. https://a.co/d/fDJAr2g . The important part is that the holes have provisions for 7mm essentric nuts that allow fine tuning of the alignment of the wheels to the rail. I eventually plan to merge the gantry plate and the bottom of the motor mount into one piece. However the width of the 86BLF04 motor matches very well with the location of the holes for the bolts that hold the wheels that I decided to tackle that problem in V2. So V1 will require the gantry plate and the motor mount box will just bolt to the gantry plate. 
 
 ![image](2080_Gantry.jpg)
 
