@@ -12,7 +12,7 @@ The above box will bolt to an aluminum gantry plate and ride along a section of 
 
 The gantry plate came from Amazon but you can cut one out along with the other parts. https://a.co/d/fDJAr2g . The important part is that the holes have provisions for 7mm essentric nuts that allow fine tuning of the alignment of the wheels to the rail.
 
-![image(2080_Gantry.jpg)
+![image](2080_Gantry.jpg)
 
 This is the 8020 rail: 
 ![image](2080_Rail.jpg)
