@@ -1,1 +1,2 @@
 These DXF's assume that you are laser cuttting 1/4" plywood which is actually 5.35mm when you measure it.
+The bottom layer and the motor mount are double thickness. For clearance of the screws that connect to the 8020 gantry plate, the top piece of the bottom layer has larger holes. The bolt goes through the gantry plate and the nut secures the yoke box to the gantry while fitting underneath the direct drive brushless motor.
