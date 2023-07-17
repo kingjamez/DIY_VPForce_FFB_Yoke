@@ -8,7 +8,7 @@ The roll axis will be direct drive from an 86BLF04 VPForce motor. A honeycomb al
 
 The pitch axis will be belt or rack and pinion driven from a 57BLF04 VPForce motor. This is TBD since I very  much want this to be as smooth as possible without sacrificing torque. First tests will be standard 2GT-2mm timing belt just like an Ender 3 X-Axis movement. 2nd tests will be 3GT-3mm endless belt. 3rd Test will be rack and pinion using 3D printed gears. The objective is smooth motion (don't want to waste the anti-cogging that is so well implimented by VPForce). All tests will likely utilize the inertia feature in the VPForce software to give smooth pitch motion.
 
-![image](First_assembly.png) 
+![image](Complete_Yoke_Mount.png) 
 
 The above box houses the 86BLF04 motor and a shaft coupler to attach the 12mm shaft through a LM12UU linear bearing. This laser cut box will bolt to an aluminum gantry plate and ride along a section of 8020x400mm rail. Here is a link to the rail: https://a.co/d/cz4xqeC 
 
