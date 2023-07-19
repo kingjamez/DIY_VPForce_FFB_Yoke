@@ -1,0 +1,3 @@
+I printed these out of CF-PETG but I suspect that almost any filament will work well. 
+The rear servo mount might benefit from a high-temp filament because that motor gets warm.
+
